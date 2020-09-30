@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.flex-container{
+    display: flex;
+    background: white;
+}
+.flex-items{
+    margin: 20px;
+    padding-left: 70px;
+    font-size: 30px;
+    width: 100%;
+    border: 1px solid whitesmoke;
+    box-shadow: 5px 5px 5px wheat;
+}
